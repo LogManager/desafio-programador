@@ -4,7 +4,7 @@ Este teste tem como objetivo conhecer um pouco mais como você programa, e como 
 
 ## O que você precisa fazer
 
-Você precisa criar um mecanismo para sincronizar contas do mercado livre e ressincronziar o token que expira de 3 em 3 horas.
+Você precisa criar um mecanismo para sincronizar contas do mercado livre e ressincronziar o token que expira de 6 em 6 horas.
 
 Documentação: https://developers.mercadolivre.com.br/pt_br/autenticacao-e-autorizacao
 
