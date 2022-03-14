@@ -17,7 +17,7 @@ Também precisa criar um front end e back end desacoplados para criação de um 
 Desafio proposto:
 - 1 - Criar um app no mercado livre
     - 1.1 - Sincronizar contas no seu app e recuperar o access token ( e salvar no banco )
-    - 1.2 - Ressincronizar quando o token expirar, o token expira a cada 3h
+    - 1.2 - Ressincronizar quando o token expirar, o token expira a cada 6h
     - 1.3 - Documentação: https://developers.mercadolivre.com.br/pt_br/autenticacao-e-autorizacao
 - 2 - Back end e Front end para publicação de produto (não são necessários todos atributos, apenas: titulo, categoria, preço e estoque)
  - 2.1 - Documentação: https://developers.mercadolivre.com.br/pt_br/publicacao-de-produtos
