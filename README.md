@@ -38,7 +38,7 @@ Obs 3: não se preocupe em fazer um front-end bonito, mas ele precisa estar desa
 
 ## No mais...
 
-Ao finalizar o teste, subir em um reposítorio do github privado e compartilhar com o user acgfbr do github.
+Ao finalizar o teste, subir em um reposítorio do github privado e compartilhar com o user grazianilog do github.
 
 ---
 
